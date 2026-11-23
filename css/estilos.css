@@ -1,0 +1,78 @@
+/* ESTILOS COMPARTIDOS DE TODAS LAS PÁGINAS
+   - Tema claro: edita las variables --bg0 (fondo), --card (tarjetas), --ink (texto) más abajo. */
+
+@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}
+.glow-zyra { box-shadow: 0 0 35px -5px rgba(170, 80, 242, 0.45); }
+.border-zyra-glow { border: 1px solid rgba(170, 80, 242, 0.28); }
+.border-zyra-glow:hover { border-color: rgba(170, 80, 242, 0.65); box-shadow: 0 0 25px rgba(170, 80, 242, 0.25); }
+
+/* TEMA CLARO: solo se aplica cuando <html> NO tiene la clase "dark".
+   Para cambiar los colores, edita las variables --bg0, --card, --ink, etc. */
+html:not(.dark){color-scheme:light;--bg0:247 243 253;--bg1:239 232 250;--card:255 255 255;--card2:243 237 252;--card3:233 224 248;--ink:26 18 38;--ink2:59 50 80;--ink3:94 84 112;--ink4:138 128 153}
+html.dark{color-scheme:dark}
+html,body{transition:background-color .25s ease,color .25s ease}
+html:not(.dark) .bg-\[\#030303\]{background-color:rgb(var(--bg1) / 1.0)}
+html:not(.dark) .bg-\[\#060606\]{background-color:rgb(var(--bg0) / 1.0)}
+html:not(.dark) .bg-\[\#060606\]\/80{background-color:rgb(var(--bg0) / 0.8)}
+html:not(.dark) .bg-\[\#0F0F12\]{background-color:rgb(var(--card) / 1.0)}
+html:not(.dark) .bg-\[\#141418\]{background-color:rgb(var(--card2) / 1.0)}
+html:not(.dark) .bg-\[\#141418\]\/70{background-color:rgb(var(--card2) / 0.7)}
+html:not(.dark) .bg-\[\#141418\]\/90{background-color:rgb(var(--card2) / 0.9)}
+html:not(.dark) .bg-\[\#141418\]\/95{background-color:rgb(var(--card2) / 0.95)}
+html:not(.dark) .bg-surface{background-color:rgb(var(--bg0))}
+html:not(.dark) .border-white\/10{border-color:rgb(var(--ink) / 0.14)}
+html:not(.dark) .border-white\/20{border-color:rgb(var(--ink) / 0.28)}
+html:not(.dark) .border-white\/5{border-color:rgb(var(--ink) / 0.07)}
+html:not(.dark) .focus\:border-\[\#AA50F2\]:focus{border-color:rgb(170 80 242 / 1.0)}
+html:not(.dark) .from-\[\#060606\]{--tw-gradient-from:rgb(var(--bg0))}
+html:not(.dark) .from-\[\#FFFFFF\]{--tw-gradient-from:rgb(var(--ink))}
+html:not(.dark) .from-white{--tw-gradient-from:rgb(var(--ink))}
+html:not(.dark) .group:hover .group-hover\:text-\[\#AA50F2\]{color:rgb(138 47 214 / 1.0)}
+html:not(.dark) .group:hover .group-hover\:text-\[\#AA50F2\]\/40{color:rgb(138 47 214 / 0.4)}
+html:not(.dark) .group:hover .group-hover\:text-\[\#C37DFF\]{color:rgb(124 34 201 / 1.0)}
+html:not(.dark) .hover\:bg-\[\#141418\]:hover{background-color:rgb(var(--card2) / 1.0)}
+html:not(.dark) .hover\:bg-\[\#1B1B22\]:hover{background-color:rgb(var(--card3) / 1.0)}
+html:not(.dark) .hover\:bg-\[\#AA50F2\]\/10:hover{background-color:rgb(170 80 242 / 0.1)}
+html:not(.dark) .hover\:bg-\[\#C37DFF\]:hover{background-color:rgb(195 125 255 / 1.0)}
+html:not(.dark) .hover\:bg-white\/5:hover{background-color:rgb(var(--ink) / 0.06)}
+html:not(.dark) .hover\:border-\[\#AA50F2\]:hover{border-color:rgb(170 80 242 / 1.0)}
+html:not(.dark) .hover\:border-\[\#AA50F2\]\/40:hover{border-color:rgb(170 80 242 / 0.4)}
+html:not(.dark) .hover\:border-\[\#AA50F2\]\/50:hover{border-color:rgb(170 80 242 / 0.5)}
+html:not(.dark) .hover\:border-\[\#AA50F2\]\/60:hover{border-color:rgb(170 80 242 / 0.6)}
+html:not(.dark) .hover\:border-\[\#AA50F2\]\/70:hover{border-color:rgb(170 80 242 / 0.7)}
+html:not(.dark) .hover\:text-\[\#AA50F2\]:hover{color:rgb(138 47 214 / 1.0)}
+html:not(.dark) .hover\:text-white:hover{color:rgb(var(--ink) / 1.0)}
+html:not(.dark) .placeholder\:text-zinc-500::placeholder{color:rgb(var(--ink4))}
+html:not(.dark) .ring-\[\#060606\]{--tw-ring-color:rgb(var(--card))}
+html:not(.dark) .text-\[\#AA50F2\]{color:rgb(138 47 214 / 1.0)}
+html:not(.dark) .text-\[\#C37DFF\]{color:rgb(124 34 201 / 1.0)}
+html:not(.dark) .text-on-surface{color:rgb(var(--ink) / 1.0)}
+html:not(.dark) .text-white{color:rgb(var(--ink) / 1.0)}
+html:not(.dark) .text-white\/10{color:rgb(var(--ink) / 0.1)}
+html:not(.dark) .text-white\/80{color:rgb(var(--ink) / 0.8)}
+html:not(.dark) .text-zinc-200{color:rgb(var(--ink2))}
+html:not(.dark) .text-zinc-300{color:rgb(var(--ink2))}
+html:not(.dark) .text-zinc-400{color:rgb(var(--ink3))}
+html:not(.dark) .text-zinc-500{color:rgb(var(--ink4))}
+html:not(.dark) .text-zinc-800{color:rgb(var(--ink) / .12)}
+html:not(.dark) .to-\[\#C37DFF\]{--tw-gradient-to:#7C22C9 var(--tw-gradient-to-position)}
+html:not(.dark) .via-\[\#C37DFF\]{--tw-gradient-stops:var(--tw-gradient-from),#7C22C9 var(--tw-gradient-via-position),var(--tw-gradient-to)}
+html:not(.dark) .keep-dark .text-\[\#AA50F2\],html:not(.dark) .keep-dark.text-\[\#AA50F2\]{color:rgb(170 80 242 / 1.0)}
+html:not(.dark) .keep-dark .text-\[\#C37DFF\],html:not(.dark) .keep-dark.text-\[\#C37DFF\]{color:rgb(195 125 255 / 1.0)}
+html:not(.dark) .keep-dark .text-white,html:not(.dark) .keep-dark.text-white{color:rgb(255 255 255 / 1.0)}
+html:not(.dark) .keep-white .text-white,html:not(.dark) .keep-white.text-white{color:rgb(255 255 255 / 1.0)}
+html:not(.dark) .keep-dark .text-white\/10,html:not(.dark) .keep-dark.text-white\/10{color:rgb(255 255 255 / 0.1)}
+html:not(.dark) .keep-white .text-white\/10,html:not(.dark) .keep-white.text-white\/10{color:rgb(255 255 255 / 0.1)}
+html:not(.dark) .keep-dark .text-white\/80,html:not(.dark) .keep-dark.text-white\/80{color:rgb(255 255 255 / 0.8)}
+html:not(.dark) .keep-white .text-white\/80,html:not(.dark) .keep-white.text-white\/80{color:rgb(255 255 255 / 0.8)}
+html:not(.dark) .keep-dark .text-zinc-200,html:not(.dark) .keep-dark.text-zinc-200{color:rgb(228 228 231)}
+html:not(.dark) .keep-dark .text-zinc-300,html:not(.dark) .keep-dark.text-zinc-300{color:rgb(212 212 216)}
+html:not(.dark) .keep-dark .text-zinc-400,html:not(.dark) .keep-dark.text-zinc-400{color:rgb(161 161 170)}
+html:not(.dark) .keep-dark .text-zinc-500,html:not(.dark) .keep-dark.text-zinc-500{color:rgb(113 113 122)}
+html:not(.dark) .bg-\[\#AA50F2\]{background-color:#AA50F2}
+html:not(.dark) .text-white.bg-\[\#AA50F2\],html:not(.dark) .text-white.bg-\[\#7C22C9\],html:not(.dark) .text-white.bg-\[\#943FE0\],html:not(.dark) .text-white[class*="from-[#AA50F2]"],html:not(.dark) .text-white[class*="from-[#141418]"],html:not(.dark) .hover\:text-white.bg-\[\#AA50F2\]:hover,html:not(.dark) #submit-btn,html:not(.dark) .scope-chip.bg-\[\#AA50F2\]{color:#fff}
+html:not(.dark) .scope-chip.bg-\[\#AA50F2\]:hover{background-color:#AA50F2}
+html:not(.dark) #project-contact-form input,html:not(.dark) #project-contact-form select,html:not(.dark) #project-contact-form textarea,html:not(.dark) .scope-chip:not(.bg-\[\#AA50F2\]),html:not(.dark) footer input[type=email]{background-color:#fff}
+html:not(.dark) header[class*="rgba(0,0,0,0.8)"]{box-shadow:0 4px 24px rgba(60,30,100,.10)}
+html:not(.dark) div[class*="rgba(0,0,0,0.8)"]{box-shadow:0 10px 30px rgba(60,30,100,.16)}
+html:not(.dark) img[alt*="Logo"]{background:#060606;padding:6px 14px;border-radius:14px}
