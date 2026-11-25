@@ -1,0 +1,110 @@
+
+
+POLÍTICA DE PRIVACIDAD Y TRATAMIENTO DE DATOS
+=============================================
+
+Como tratamos los datos personales que nos compartes.
+
+Actualizado en noviembre de 2026
+
+En Zyra Digital respetamos tu privacidad. Esta política explica qué datos personales recolectamos a través de este sitio web, para qué los usamos y cómo puedes ejercer tus derechos, conforme a la Ley 1581 de 2012, el Decreto 1377 de 2013 (compilado en el Decreto 1074 de 2015) y las normas que los modifiquen o complementen.
+
+En resumen
+----------
+  - Solo pedimos los datos necesarios para responder tu solicitud o prestarte un servicio.
+  - No vendemos tus datos ni los usamos para fines distintos a los que aquí se explican.
+  - Puedes consultar, corregir o pedir la eliminación de tus datos cuando quieras.
+
+1. Responsable del tratamiento
+------------------------------
+  - Nombre o razón social: Zyra Digital
+  - Domicilio: Guachene ,Cauca, Colombia. 
+  - Correo para temas de datos personales:zyradigital09@gmail.com
+  - Teléfono / WhatsApp: +57 321689248
+  - Sitio web: zyradigital.tech
+
+2. Qué datos recolectamos
+-------------------------
+  - Formulario de contacto: nombre, correo electrónico, empresa (opcional), presupuesto estimado, servicios de interés y el mensaje que nos escribes.
+  - Boletín (si te suscribes): tu correo electrónico.
+  - WhatsApp o correo: si nos escribes por esos canales, recibimos tu número o correo y el contenido de tus mensajes.
+  - Datos técnicos: al navegar, el servicio de alojamiento del sitio puede registrar datos como la dirección IP, el navegador y la fecha de acceso, para el funcionamiento y la seguridad del sitio.
+No solicitamos datos sensibles (salud, origen étnico, orientación política o religiosa, datos biométricos, etc.), datos de menores de edad, números de tarjeta ni contraseñas. Por favor no los incluyas en el formulario ni en tus mensajes.
+
+3. Para qué usamos tus datos (finalidades)
+------------------------------------------
+  - Responder tus consultas y enviarte cotizaciones o propuestas.
+  - Agendar llamadas o reuniones contigo.
+  - Prestar, administrar y facturar los servicios que contrates.
+  - Enviarte información sobre nuestros servicios o novedades, solo si lo autorizas, con opción de darte de baja en cualquier momento.
+  - Cumplir obligaciones legales, contables y tributarias.
+  - Mantener la seguridad del sitio y prevenir fraudes o usos indebidos.
+
+4. Autorización
+---------------
+Al marcar la casilla de autorización y enviar el formulario, nos das tu autorización previa, expresa e informada para tratar tus datos con las finalidades descritas. Puedes revocarla en cualquier momento, salvo que exista un deber legal o contractual que nos obligue a conservar los datos.
+
+Este sitio está dirigido a personas mayores de edad y a empresas. Si crees que un menor nos envió datos, escríbenos y los eliminaremos.
+
+5. Tus derechos como titular
+----------------------------
+  - Conocer, actualizar y rectificar tus datos personales.
+  - Solicitar prueba de la autorización que nos diste.
+  - Ser informado, previa solicitud, del uso que hemos dado a tus datos.
+  - Presentar quejas ante la Superintendencia de Industria y Comercio (SIC) por infracciones a la ley.
+  - Revocar la autorización y/o solicitar la supresión de tus datos cuando no se respeten los principios y garantías legales.
+  - Acceder de forma gratuita a tus datos personales que hayan sido objeto de tratamiento.
+
+6. Cómo ejercer tus derechos
+----------------------------
+Escríbenos a zyradigital09@gmail.com con tu nombre, un documento que te identifique, una descripción clara de lo que solicitas y un medio para responderte.
+
+  - Consultas: las respondemos en máximo 10 días hábiles. Si necesitamos más tiempo, te avisamos y la respuesta se dará en máximo 5 días hábiles adicionales.
+  - Reclamos (corregir, actualizar o suprimir datos, o revocar la autorización): los atendemos en máximo 15 días hábiles, prorrogables por 8 días hábiles más con aviso previo.
+
+7. Proveedores y terceros
+-------------------------
+Para operar el sitio y prestar nuestros servicios nos apoyamos en proveedores que pueden tratar datos por nuestra cuenta, por ejemplo: alojamiento del sitio ([Vercel]), recepción del formulario ([ Formspree]) y WhatsApp (Meta).
+
+Además, este sitio carga recursos desde servidores de terceros (como Google Fonts, el alojamiento de algunas imágenes y la librería de estilos Tailwind CSS), por lo que esos servicios pueden recibir tu dirección IP al abrir la página.
+
+Algunos de estos proveedores pueden almacenar datos fuera de Colombia. Exigimos a nuestros proveedores medidas de protección adecuadas y no vendemos tus datos personales. Solo los compartimos con autoridades cuando la ley lo exige.
+
+8. Cookies y almacenamiento en tu navegador
+-------------------------------------------
+El sitio guarda en tu navegador, únicamente para tu comodidad, dos preferencias: el tema claro u oscuro y si quieres ver los efectos de temporada (por ejemplo nieve). No contienen datos personales. [CONFIRMAR: verifica que no hayas agregado Google Analytics, Meta Pixel u otras herramientas de seguimiento; si lo haces, debes explicarlo aquí y pedir consentimiento]
+
+9. Cuánto tiempo conservamos tus datos
+--------------------------------------
+Conservamos tus datos mientras sean necesarios para las finalidades descritas y durante los plazos que exijan las normas legales, contables y tributarias o la relación contractual. [COMPLETAR: por ejemplo: las solicitudes de cotización sin respuesta se eliminan después de 2 años] Después los eliminamos o anonimizamos.
+
+10. Seguridad de la información
+-------------------------------
+Aplicamos medidas técnicas, humanas y administrativas razonables para proteger tus datos contra acceso no autorizado, pérdida o alteración. Conoce más en nuestra página de Seguridad.
+
+11. Cambios y vigencia
+----------------------
+Podemos actualizar esta política. Si los cambios son sustanciales (por ejemplo, quién es el responsable o para qué usamos los datos), te lo comunicaremos antes de aplicarlos. La versión vigente es la publicada en esta página. Vigente desde [COMPLETAR: fecha de publicación].
+
+12. Autoridad de protección de datos
+------------------------------------
+Si consideras que tus derechos no fueron atendidos, puedes acudir a la Superintendencia de Industria y Comercio (SIC), autoridad de protección de datos personales en Colombia: www.sic.gov.co.
+
+Arquitectura de software de vanguardia, automatizaciones inteligentes y creatividad visual de alto calibre construida para escalar empresas al futuro digital.
+
+  - Software & Web Apps
+  - Automatizaciones IA
+  - Marketing Predictivo
+  - Branding & Media
+  - Growth Social
+  - Quiénes Somos
+  - Nuestro Equipo
+  - Casos de Estudio
+  - Metodología Sprint
+  - Campus Virtual 3D
+  - Portal de Clientes
+  - API & Docs
+  - location_on Guachene, Cauca, Colombia
+  - zyradigital09@gmail.com
+  - +57 321689248
+© 2026 Zyra Digital. Todos los derechos reservados.

@@ -1,0 +1,95 @@
+
+
+TÉRMINOS Y CONDICIONES
+======================
+
+Las reglas para usar este sitio y contratar nuestros servicios.
+
+Actualizado en noviembre de 2026
+
+Estos términos regulan el uso del sitio web zyradigital.tech y la contratación de los servicios de Zyra Digital. Al usar el sitio o contratar nuestros servicios, aceptas estas condiciones. Si no estás de acuerdo, por favor no uses el sitio.
+
+1. Quiénes somos
+----------------
+Zyra Digital es un negocio de servicios digitales con sede en Guachene, Colombia, Puedes contactarnos en zyradigital09@gmail.com.
+
+2. Uso del sitio
+----------------
+  - El contenido del sitio es informativo y puede cambiar sin previo aviso. No constituye una oferta vinculante: las condiciones de cada servicio se definen en una cotización o propuesta aceptada por ambas partes.
+  - Te comprometes a usar el sitio de forma lícita y a no intentar vulnerar su seguridad, enviar contenido malicioso o suplantar a otras personas.
+  - Los casos y proyectos mostrados son ejemplos de nuestro trabajo. Los resultados de cada negocio dependen de muchos factores, por lo que no garantizamos resultados idénticos.
+
+3. Servicios
+------------
+Ofrecemos, entre otros, desarrollo web, automatizaciones, dashboards, marketing digital, redes sociales y diseño. El alcance exacto, los entregables, los plazos y el precio de cada proyecto quedan por escrito en la propuesta o contrato correspondiente.
+
+4. Cotizaciones, contratación y pagos
+-------------------------------------
+  - Las cotizaciones tienen una vigencia de [COMPLETAR: por ejemplo: 15 días] desde su envío.
+  - El proyecto inicia cuando aceptas la propuesta y, si aplica, realizas el pago inicial de [COMPLETAR: por ejemplo: 50%].
+  - Los pagos se realizan por los medios y en los plazos indicados en la propuesta. Los precios se expresan en pesos colombianos (COP) o dólares (USD) e incluyen o no impuestos según se indique.
+  - El retraso en los pagos puede suspender el trabajo hasta que se regularice.
+
+5. Entregas, cambios y obligaciones del cliente
+-----------------------------------------------
+  - Te entregaremos los avances y entregables acordados. Incluimos 2 rondas de ajustes dentro del precio; los cambios adicionales o fuera del alcance se cotizan por separado.
+  - Los plazos dependen de que nos entregues a tiempo los textos, imágenes, accesos y aprobaciones necesarios.
+  - Eres responsable de que los contenidos que nos entregas (textos, logos, fotos, marcas) sean tuyos o tengas derecho a usarlos.
+
+6. Propiedad intelectual
+------------------------
+  - El diseño, los textos y el código de este sitio pertenecen a Zyra Digital y no pueden copiarse ni reutilizarse sin autorización.
+  - Una vez pagado el valor total de un proyecto, el cliente recibe la autonomia sobre el proyecto, si se acuerda un mantenimiento se realiza dentro del tiempo establecido del mismo.
+  - Podemos usar librerías y herramientas de terceros o de código abierto, que se rigen por sus propias licencias.
+  - Podemos mostrar los proyectos terminados en nuestro portafolio, salvo que acordemos por escrito que sean confidenciales.
+
+7. Confidencialidad
+-------------------
+Tratamos como confidencial la información no pública de tu negocio a la que accedamos al prestar el servicio. Si lo necesitas, podemos firmar un acuerdo de confidencialidad (NDA) antes de empezar.
+
+8. Servicios y enlaces de terceros
+----------------------------------
+El sitio y los proyectos pueden enlazar o depender de servicios de terceros (WhatsApp, alojamiento, pasarelas de pago, Google, etc.). Esos servicios tienen sus propios términos y no controlamos su disponibilidad ni su contenido.
+
+9. Garantías y limitación de responsabilidad
+--------------------------------------------
+Trabajamos con cuidado profesional, pero no podemos garantizar que el sitio o los proyectos funcionen sin interrupciones ni errores. En la medida permitida por la ley, no respondemos por daños indirectos, lucro cesante o pérdidas derivadas de fallas de servicios de terceros, y nuestra responsabilidad total se limita al valor pagado por el servicio afectado. Nada de lo anterior limita los derechos irrenunciables que la ley reconoce a los consumidores.
+
+10. Derechos del consumidor
+---------------------------
+Si eres consumidor persona natural, te protege el Estatuto del Consumidor (Ley 1480 de 2011), incluidos los derechos que la ley reconozca en las compras a distancia, como el de retracto en los casos y plazos que la norma establece. 
+
+11. Datos personales
+--------------------
+El tratamiento de tus datos se rige por nuestra Política de Privacidad.
+
+12. Peticiones, quejas y reclamos
+---------------------------------
+Escríbenos a zyradigital09@gmail.com y te responderemos en un plazo máximo de 15 días hábiles.
+
+13. Ley aplicable y jurisdicción
+--------------------------------
+Estos términos se rigen por las leyes de la República de Colombia. Cualquier controversia se resolverá ante los jueces competentes de Guachene, Valle del Cauca, sin perjuicio de los derechos del consumidor.
+
+14. Cambios a estos términos
+----------------------------
+Podemos actualizar estos términos. La versión vigente es la publicada en esta página, y los cambios no afectan los proyectos ya contratados bajo una propuesta aceptada. Vigentes desde [COMPLETAR: fecha de publicación].
+
+Arquitectura de software de vanguardia, automatizaciones inteligentes y creatividad visual de alto calibre construida para escalar empresas al futuro digital.
+
+  - Software & Web Apps
+  - Automatizaciones IA
+  - Marketing Predictivo
+  - Branding & Media
+  - Growth Social
+  - Quiénes Somos
+  - Nuestro Equipo
+  - Casos de Estudio
+  - Metodología Sprint
+  - Campus Virtual 3D
+  - Portal de Clientes
+  - API & Docs
+  - location_on Guachene, Cauca, Colombia
+  - zyradigital09@gmail.com
+  - +57 321689248
+© 2026 Zyra Digital. Todos los derechos reservados.

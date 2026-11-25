@@ -1,0 +1,75 @@
+
+SEGURIDAD
+=========
+
+Cómo cuidamos la información y como puedes ayudarnos.
+
+Actualizado en noviembre de 2026
+
+Proteger la información de quienes confían en nosotros es parte de nuestro trabajo. Esta página explica, en palabras sencillas, qué hacemos para cuidar tus datos y cómo puedes ayudarnos a mantenerlos seguros.
+
+Nuestro compromiso
+------------------
+  - Pedimos solo los datos necesarios y los usamos únicamente para lo que te explicamos.
+  - No vendemos tu información.
+  - Si ocurre un incidente de seguridad que afecte tus datos, te lo informamos y lo reportamos a la autoridad.
+
+1. Medidas técnicas
+-------------------
+  - El sitio se ofrece sobre una conexión cifrada (HTTPS). 
+  - El alojamiento está en una plataforma profesional ([ Vercel]) que aplica sus propias medidas de seguridad de infraestructura.
+  - Recolectamos la menor cantidad de datos posible en el formulario de contacto.
+  - No pedimos ni almacenamos números de tarjeta de crédito en este sitio.
+
+2. Medidas organizativas
+------------------------
+  - Solo las personas del equipo que lo necesitan tienen acceso a la información de los clientes y de las solicitudes.
+  - Usamos contraseñas fuertes y, cuando el servicio lo permite, verificación en dos pasos. [CONFIRMAR: confirma que realmente lo haces]
+  - Las personas que trabajan con nosotros se comprometen a mantener la confidencialidad de la información.
+
+3. Seguridad en los proyectos que desarrollamos
+-----------------------------------------------
+  - Aplicamos buenas prácticas de desarrollo: validación de datos, manejo cuidadoso de accesos y actualización de dependencias.
+  - Las credenciales y accesos que compartes con nosotros se usan solo para tu proyecto y se devuelven o se eliminan al terminar. 
+  - Si lo necesitas, podemos firmar un acuerdo de confidencialidad (NDA).
+
+4. Cómo puedes protegerte
+-------------------------
+  - No compartas contraseñas ni datos de tarjeta por el formulario, correo o WhatsApp.
+  - Desconfía de mensajes que se hagan pasar por nosotros. Nuestros únicos canales oficiales son zyradigital09@gmail.com
+   +57 321689248.
+  - Revisa que la dirección del sitio sea la correcta y que abra con candado antes de enviar tus datos.
+  - Usa contraseñas distintas para cada servicio y activa la verificación en dos pasos.
+
+5. Reporta un problema de seguridad
+-----------------------------------
+Si encuentras una falla o crees que tus datos pudieron verse comprometidos, escríbenos a zyradigital09@gmail.com con los detalles. Revisaremos tu reporte lo antes posible y te mantendremos informado.
+
+6. Incidentes de seguridad
+--------------------------
+Si ocurre un incidente que afecte datos personales, tomaremos medidas para contenerlo, informaremos a las personas afectadas y reportaremos a la Superintendencia de Industria y Comercio (SIC) cuando la ley lo exija.
+
+
+
+7. Más información
+------------------
+Consulta cómo tratamos tus datos en la Política de Privacidad y las condiciones de uso en los Términos y Condiciones.
+
+Arquitectura de software de vanguardia, automatizaciones inteligentes y creatividad visual de alto calibre construida para escalar empresas al futuro digital.
+
+  - Software & Web Apps
+  - Automatizaciones IA
+  - Marketing Predictivo
+  - Branding & Media
+  - Growth Social
+  - Quiénes Somos
+  - Nuestro Equipo
+  - Casos de Estudio
+  - Metodología Sprint
+  - Campus Virtual 3D
+  - Portal de Clientes
+  - API & Docs
+  - location_on Guachene, Cauca, Colombia
+  - zyradigital09@gmail.com
+  - +57 321689248
+© 2026 Zyra Digital. Todos los derechos reservados.
